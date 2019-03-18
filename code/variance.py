@@ -21,6 +21,7 @@ def Var(array):
     var = summation/n
     return var
 
+# test here
 
 
 def Contour_plot(array,subarray):
